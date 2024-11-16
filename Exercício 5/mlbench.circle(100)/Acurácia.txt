@@ -1,0 +1,6 @@
+p = 5 - Acurácia: 83.33% 
+p = 20 Acurácia: 93.33%
+p = 50: Acurácia: 76.67%
+p = 80: Acurácia: 66.67%
+p = 100 Acurácia: 80%
+p = 500 Acurácia: 80%
