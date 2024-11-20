@@ -1,0 +1,31 @@
+p 5 - 100 amostras
+
+0.0532 
+
+p 10 - 100 amostras
+
+0.0031 - 100 amostras
+
+p 15 - 100 amostras
+
+0.0029
+
+p 20 - 100 amostras 
+
+0.0304
+
+p 5 - 50 amostras
+
+0.0298
+
+p 10 - 50 amostras
+
+0.0037
+
+p 15 - 50 Amostras
+
+0.004
+
+p 20 - 50 Amostras
+
+0.0036

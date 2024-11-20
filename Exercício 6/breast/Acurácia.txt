@@ -1,0 +1,66 @@
+Foram realizadas 50 execuções para cada conjunto de testes (treino e validação)
+
+p = 5
+
+Acurária Conjunto de Treinamento:
+90.88% +- 0.0075
+
+Acurária Conjunto de Teste:
+89.12% +- 0.0169
+
+p = 10
+
+Acurária Conjunto de Treinamento:
+91.72% +- 0.0033
+
+Acurária Conjunto de Teste:
+92.19% +- 0.0043
+
+p = 30
+
+Acurária Conjunto de Treinamento:
+92.76% +- 0.0055
+
+Acurária Conjunto de Teste:
+93.06% +- 0.0049
+
+p = 50
+
+Acurária Conjunto de Treinamento:
+93.01% +- 0.0038
+
+Acurária Conjunto de Teste:
+92.72% +- 0.0044
+
+p = 100
+
+Acurária Conjunto de Treinamento:
+93.02% +- 0.0021
+
+Acurária Conjunto de Teste:
+92.53% +- 0.0032
+
+p = 500 (custo computacional)
+
+Acurária Conjunto de Treinamento:
+95.23% +- 0.0004
+
+Acurária Conjunto de Teste:
+90.33% +- 0.0029
+
+p = 1500 (custo computacional)
+
+Acurária Conjunto de Treinamento:
+92.43% +- 0.0016
+
+Acurária Conjunto de Teste:
+92.95% +- 0.0008
+
+Perceptron (custo computacional) OBS: o treinamento teve que ser feito sem os dados regularizados, pois o resultado estava muito ruim com os dados regularizados
+
+Acurária Conjunto de Treinamento:
+71.94% +- 0.0896
+
+Acurária Conjunto de Teste:
+72.95% +- 0.1110
+

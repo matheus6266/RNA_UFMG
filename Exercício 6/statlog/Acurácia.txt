@@ -1,0 +1,58 @@
+Foram realizadas 50 execuções para cada conjunto de testes (treino e validação)
+
+p = 5
+
+Acurária Conjunto de Treinamento:
+67.26% +- 0.0100
+
+Acurária Conjunto de Teste:
+74.27% +- 0.0152
+
+p = 10
+
+Acurária Conjunto de Treinamento:
+69.02% +- 0.0067
+
+Acurária Conjunto de Teste:
+76.47% +- 0.0181
+
+p = 30
+
+Acurária Conjunto de Treinamento:
+71.45% +- 0.0132
+
+Acurária Conjunto de Teste:
+71.95% +- 0.0346
+
+p = 50
+
+Acurária Conjunto de Treinamento:
+71.93% +- 0.0102
+
+Acurária Conjunto de Teste:
+70.49% +- 0.0309
+
+p = 100
+
+Acurária Conjunto de Treinamento:
+75.26% +- 0.0052
+
+Acurária Conjunto de Teste:
+63.14% +- 0.0224
+
+p = 500 (custo computacional)
+
+Acurária Conjunto de Treinamento:
+71.30% +- 0.0074
+
+Acurária Conjunto de Teste:
+70.27% +- 0.0145
+
+p = 1500 (custo computacional)
+
+Acurária Conjunto de Treinamento:
+70.93% +- 0.0060
+
+Acurária Conjunto de Teste:
+70.12% +- 0.0114
+
